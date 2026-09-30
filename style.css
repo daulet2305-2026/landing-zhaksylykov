@@ -171,4 +171,7 @@ footer {
     #services {
         grid-template-columns: repeat(3, 1fr);
     }
+    nav > li, a{
+        font-size: 0.75rem;
+    }
 }
