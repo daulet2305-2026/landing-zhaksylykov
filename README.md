@@ -1,7 +1,7 @@
 # Лендинг: Стоматологическая клиника (Tailwind CSS)
 
 * **Тема:** Стоматологическая клиника (услуги, врачи, запись)
-* **Ссылка на живой сайт:** [https://<ваш-логин>.github.io/landing-zhaksylykov/](https://<ваш-логин>.github.io/landing-zhaksylykov/)
+* **Ссылка на живой сайт:** []()
 
 ## Что реализовано:
 - Семантическая верстка (header, nav, main, section, article, footer).
